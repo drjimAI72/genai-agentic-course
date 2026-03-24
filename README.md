@@ -1,4 +1,4 @@
-# Node.js Course Repository
+# GenAI and Agentic UTA - Great Learning Course Repository
 
 ## Overview
 This repository contains assignments, projects, and notes for a 14-week Node.js course.
